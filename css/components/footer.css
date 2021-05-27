@@ -1,0 +1,20 @@
+.footer {
+  background-color: #3d3b3c;
+  background-size:cover;
+  padding: 40px 0px;
+  text-align:center;
+}
+
+.footer p {
+  color: #aeb1b6;
+}
+
+.footer a {
+  color: #1EDD88;
+  font-size: 30px;
+}
+
+.footer a:hover {
+  opacity:0.8;
+  transition:0.2s;
+}
